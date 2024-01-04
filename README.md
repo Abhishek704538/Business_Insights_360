@@ -180,26 +180,26 @@ In Home view, all the views button will be available. User will land on specific
 
 ## Info Page
 
-![Info.gif](https://github.com/Abhishek704538/Business_Insights_360/blob/main/Info%20Page.pdf)
+![Info Page.pdf](https://github.com/Abhishek704538/Business_Insights_360/blob/main/Info%20Page.pdf)
 
 ## Finance View
 
-![Finace.gif](https://github.com/Abhishek704538/Business_Insights_360/blob/main/Finance%20View.pdf)
+![Finance View.pdf](https://github.com/Abhishek704538/Business_Insights_360/blob/main/Finance%20View.pdf)
 ## Sales View
 
-![Sales.gif](https://github.com/Abhishek704538/Business_Insights_360/blob/main/Sales%20View.pdf)
+![Sales View.pdf](https://github.com/Abhishek704538/Business_Insights_360/blob/main/Sales%20View.pdf)
 
 ## Marketing View
 
-![Marketing.gif](https://github.com/Abhishek704538/Business_Insights_360/blob/main/Marketing%20View.pdf)
+![Marketing View.pdf](https://github.com/Abhishek704538/Business_Insights_360/blob/main/Marketing%20View.pdf)
 
 ## Supply chain View
 
-![Supply chain.gif](https://github.com/Abhishek704538/Business_Insights_360/blob/main/Supply%20chain%20View.pdf)
+![Supply chain View.pdf](https://github.com/Abhishek704538/Business_Insights_360/blob/main/Supply%20chain%20View.pdf)
 
 ## Executive View
 
-![Executive.gif](https://github.com/Abhishek704538/Business_Insights_360/blob/main/Executive%20View.pdf)
+![Executive View.pdf](https://github.com/Abhishek704538/Business_Insights_360/blob/main/Executive%20View.pdf)
 
 
 ## Project Outcome
