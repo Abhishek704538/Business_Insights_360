@@ -158,6 +158,7 @@ Fact table : It will have the data about the transactions
 - Following Good practices of data modeling is must. Refer this page to get to know the good practices [Blog](https://addendanalytics.com/blog/data-modelling-best-practices/)
 - In this project, we have followed Snowfall data modeling method.
 
+<img src="https://github.com/Abhishek704538/Business_Insights_360/blob/main/resources/Data%20model.png" class="center">
 
 ### Dashboard designing
 
@@ -180,27 +181,26 @@ In Home view, all the views button will be available. User will land on specific
 
 ## Info Page
 
-![Info Page.pdf](https://github.com/Abhishek704538/Business_Insights_360/blob/main/Info%20Page.pdf)
+![Info.gif](https://github.com/Abhishek704538/Business_Insights_360/blob/main/resources/Info%20Page.jpg)
 
 ## Finance View
 
-![Finance View.pdf](https://github.com/Abhishek704538/Business_Insights_360/blob/main/Finance%20View.pdf)
+![Finace.gif](https://github.com/Abhishek704538/Business_Insights_360/blob/main/resources/Finance%20View.jpg)
 ## Sales View
 
-![Sales View.pdf](https://github.com/Abhishek704538/Business_Insights_360/blob/main/Sales%20View.pdf)
+![Sales.gif](https://github.com/Abhishek704538/Business_Insights_360/blob/main/resources/Sales%20View.jpg)
 
 ## Marketing View
 
-![Marketing View.pdf](https://github.com/Abhishek704538/Business_Insights_360/blob/main/Marketing%20View.pdf)
+![Marketing.gif](https://github.com/Abhishek704538/Business_Insights_360/blob/main/resources/Marketing%20View.jpg)
 
 ## Supply chain View
 
-![Supply chain View.pdf](https://github.com/Abhishek704538/Business_Insights_360/blob/main/Supply%20chain%20View.pdf)
+![Supply chain.gif](https://github.com/Abhishek704538/Business_Insights_360/blob/main/resources/Supply%20chain%20View.jpg)
 
 ## Executive View
 
-![Executive View.pdf](https://github.com/Abhishek704538/Business_Insights_360/blob/main/Executive%20View.pdf)
-
+![Executive.gif](https://github.com/Abhishek704538/Business_Insights_360/blob/main/resources/Executive%20View.jpg)
 
 ## Project Outcome
 
